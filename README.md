@@ -363,7 +363,7 @@ The `endpoint` keyword in Ballerina refers to a connection with a remote service
 
 ## Testing 
 
-### Invoking the RESTful service 
+### Invoking the data backed service 
 
 You can run the RESTful service that you developed above, in your local environment. You need to have the Ballerina installation on your local machine and simply point to the <ballerina>/bin/ballerina binary to execute all the following steps.  
 
